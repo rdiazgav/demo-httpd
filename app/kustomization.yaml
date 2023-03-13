@@ -1,4 +1,2 @@
-kind: Kustomization
-namespace: demo-httpd
 resources:
 - deployment.yaml
